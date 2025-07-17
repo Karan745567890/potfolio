@@ -31,7 +31,6 @@ Edit
 ## 📬 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karan-singh-bisht-8935912a7/)
-- 💻 [GitHub](https://github.com/your-username) <!-- Replace with actual username -->
 - 🌐 [Portfolio](https://karanbishtportfolio.netlify.app/)
 
 ---
